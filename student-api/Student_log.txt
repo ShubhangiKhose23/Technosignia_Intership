@@ -1,0 +1,168 @@
+VIEWED (JDBC): All students records fetched from DB.
+ADDED (JDBC): ID=4, Name=Amit Patel, Age=22, Course=Python Core
+VIEWED (JDBC): All students records fetched from DB.
+VIEWED (JDBC): All students records fetched from DB.
+MODULE 2 ACTION: SearchBy=city | Query=Mumbai | Page=0 | Size=5 | Sort=id (asc)
+MODULE 2 ACTION: SearchBy=email | Query=priya | Page=0 | Size=5 | Sort=id (asc)
+MODULE 2 ACTION: SearchBy=null | Query=null | Page=0 | Size=5 | Sort=name (desc)
+ADDED (JDBC): ID=5, Name=Amit Kumar, Age=22, Course=Java Full Stack, Email=amit.kumar@gmail.com, City=Pune
+SEARCHED (JDBC): Found Student ID=5, Name=Amit Kumar
+VIEWED (JDBC): All students records fetched from DB.
+VIEWED (JDBC): All students records fetched from DB.
+ADDED (JDBC): ID=6
+VIEWED (JDBC): All students records fetched.
+UPDATED (JDBC): Student ID=1
+DELETED (JDBC): Student with ID=6
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+ADDED (JDBC): ID=7
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+VIEWED (JDBC): All students records fetched.
+MODULE 1 READ: Direct fetch query mapping for Name=
+MODULE 1 READ: Direct fetch query mapping for Name=
+MODULE 1 READ: Direct fetch query mapping for Name=
+MODULE 1 READ: Direct fetch query mapping for Name=
+MODULE 1 READ: Direct fetch query mapping for Name=
+MODULE 1 READ: Direct fetch query mapping for Name=
+UPDATED - Student ID: 8, Name: Virat Kohali
+UPDATED - Student ID: 9, Name: Rohit Sharma
