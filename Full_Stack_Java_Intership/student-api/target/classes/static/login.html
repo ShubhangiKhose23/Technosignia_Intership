@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Login</title>
+    <!-- Pehle se bane hue CSS file ko link kiya -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="wrapper">
+    <h2>Student Login</h2>
+    <!-- 🟢 CHANGE: novalidate lagaya taaki hamara inline validation chal sake -->
+    <form id="authLoginForm" novalidate>
+
+        <!-- Email Input Field -->
+        <div class="field-group">
+            <label>Email Address</label>
+            <input type="email" id="loginEmail" placeholder="Enter registered email">
+            <span id="emailError" class="error-text"></span> <!-- 🟢 Email ke theek niche error space -->
+        </div>
+
+        <!-- Password Input Field -->
+        <div class="field-group">
+            <label>Password</label>
+            <input type="password" id="loginPassword" placeholder="Enter password">
+            <span id="passwordError" class="error-text"></span> <!-- 🟢 Password ke theek niche error space -->
+        </div>
+
+        <button type="submit">Sign In</button>
+    </form>
+
+    <!-- Global alert dashboard message banner wrapper -->
+    <div id="statusAlert" class="alert"></div>
+
+    <div class="signup-route">
+        New Student? <a href="register.html">Register Here</a>
+    </div>
+</div>
+
+<!-- Naye JS folder se login.js ko link kiya -->
+<script src="js/login.js"></script>
+</body>
+</html>
